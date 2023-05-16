@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jakrim (Jesse Krim)
+- 🏌🏼‍♂️ Currently working on Fanduel's TV and web streaming applications!
 - 👀 I’m interested in ... React Native apps that can build powerful companies!
 - 🌱 I’m currently working with ... React Native tv-os at Fanduel on their FanduelTV+ application tv apps
 - 💞️ I’m looking to collaborate and advise on ... startups and startup ideas
